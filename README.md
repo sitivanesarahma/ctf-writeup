@@ -7,5 +7,11 @@ List of Challenges I solved.
 ### Week 1
 | Category | Challenge |
 | --- | --- |
-| Miscellaneous | [Sanity Check](https://github.com/sitivanesarahma/ctf-writeup/tree/main/Web_Exploitation)
-| Web Exploitation | [Fortune Cookies](https://github.com/sitivanesarahma/ctf-writeup/tree/main/Web_Exploitation)
+| Miscellaneous | [Sanity Check](Miscellaneous)
+| Web Exploitation | [Fortune Cookies](Web_Exploitation)
+
+### Week 2
+|Category|Challenge|
+|--- | --- |
+| Cryptography | [Emoji](Cryptography/emoji.md)|
+| Cryptography | [RSA](Cryptography/rsa.md)|
